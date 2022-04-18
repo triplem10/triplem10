@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @triplem10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-triplem10/triplem10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+npx create-react-app erc20-minter --template typescript
+cd erc20-minter
+npm install bunzz-sdk
